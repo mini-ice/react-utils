@@ -1,0 +1,24 @@
+{
+  "name": "react-redux",
+  "version": "1.0.0",
+  "description": "react redux",
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "wbyang <578870507@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "dist/react-redux.js",
+  "module": "dist/react-redux.module.js",
+  "directories": {
+    "lib": "dist",
+    "test": "__tests__"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
